@@ -1,5 +1,5 @@
 # Dati
-# MERN stack
+## MERN stack
 A Full Stack app to display the data from mongoDB on the React page
 
 I didnt get a goodname soo yeh take Dati as it fetches data, hehe
